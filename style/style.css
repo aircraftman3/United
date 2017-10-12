@@ -123,6 +123,50 @@ body {
     background-size: cover;
     text-align: center;
     max-height: 766px;
+
+    color: #fff;
+}
+
+.formularz h3 {
+    padding-top: 87px;
+    font-size: 48px;
+    font-weight: bold;
+    border: 0;
+}
+
+.formularz h4 {
+    font-size: 32px;
+    font-weight: normal;
+    padding-bottom: 87px;
+
+}
+
+.form-field {
+border-width: 0;
+}
+
+.form-field1 {
+
+    width: 610px;
+    height:76px;
+    border-width: 0;
+}
+
+.form-field2 {
+    margin-top: 28px;
+    width: 610px;
+    height:76px;
+    border-width: 0;
+}
+.button {
+    font: 18px "Now";
+    font-weight: bold;
+    color: #fff;
+    border-width: 0;
+    width: 295px;
+    height: 76px;
+    padding: 0;
+    background-color: #67ac3e;
 }
 
 .footer {
